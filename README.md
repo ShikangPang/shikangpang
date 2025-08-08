@@ -5,6 +5,8 @@ Hi there, I'm Shikang.
 - Python.
 - Java.
 - Go.
+- Vue.
+- ReAct
 - LLM.
 
 Enjoy coding, enjoy open-source.
